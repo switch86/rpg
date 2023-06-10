@@ -1,1 +1,3 @@
+// this will be a starting point/ test data  for "friend" db 
+
 ["A stranger tells you they like your shoes", "Your parent sends you a birthday card that affirms your gender", "A cute person gives you their phone number", "You end up at a friends birthday party and have a great time", "A colleague nominates you for a prestigious award", "Someone you look up to compliments your work", "You try on a new outfit and feel major gender euphoria", "You go the whole day and nobody misgenders you", "A friend calls to invite you to a fun event", "You have a really peaceful walk in the park", "You try a new activity that always felt off-limits before"]
